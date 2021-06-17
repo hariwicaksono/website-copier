@@ -1,4 +1,3 @@
-[![CodeFactor](https://www.codefactor.io/repository/github/ahmadibrahiim/website-downloader/badge)](https://www.codefactor.io/repository/github/ahmadibrahiim/website-downloader)
 ## Complete Website Downloader 💾
 Download the complete source code of any website (including all assets) 🔨.
 
