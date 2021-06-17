@@ -3,6 +3,8 @@ Download the complete source code of any website (including all assets) 🔨.
 
 👉 Live Demo: https://hardikanand1st.github.io/website-copier/
 
+** It will not work until you download source code and use it in your own site. demo is only for design.
+
 ![enter image description here](https://hardikanand1st.github.io/website-copier/public/Record.gif)
 ## Description 📒
  Website downloader works with `wget` and `archiver` to download all websites assets and compress then sends it back to the user through socket channel
