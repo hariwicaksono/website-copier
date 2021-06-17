@@ -2,7 +2,7 @@
 ## Complete Website Downloader 💾
 Download the complete source code of any website (including all assets) 🔨.
 
-👉 Live Demo: https://site-dwloader.herokuapp.com/
+👉 Live Demo: https://hardikanand1st.github.io/website-copier/
 
 ![enter image description here](https://github.com/AhmadIbrahiim/Website-downloader/blob/master/public/Record.gif?raw=true)
 ## Description 📒
@@ -31,10 +31,10 @@ Download the complete source code of any website (including all assets) 🔨.
 
 # How To Contribute:
  - Open Issue with any bug you noticed.
- - Let us know if We&You can add new features.
+ - Let me know if Me&You can add new features.
  - PR and changes you think it'd be an added value.
 
 
 Thank you so much,
 
-https://www.ahmed-ibrahim.com
+https://www.hardik.live
